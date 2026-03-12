@@ -61,7 +61,7 @@
 
 ---
 ## 📄 CV & Certifications
-- [Télécharger mon CV PDF](#)  
+- [Télécharger mon CV PDF](./docs/CV.pdf)  
 - Certifications & Diplômes :  
   - **OpenClassrooms** : 12 projets QA et développement front-end complétés  
   - **Master en Informatique Industrielle** : formation complète en systèmes et développement  
