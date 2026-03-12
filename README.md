@@ -14,65 +14,53 @@
 
 ---
 
-## 🔹 À propos de moi
-
-✅ Testeuse fonctionnelle et QA manuelle expérimentée sur applications web et mobiles  
-✅ Création de rapports de bugs détaillés et professionnels  
-✅ Expertise en tests automatisés avec **Cypress** et suivi qualité  
-✅ Connaissance du développement front-end (React, HTML, CSS) pour mieux comprendre le produit testé  
-✅ Sens de l’organisation, rigueur et passion pour l’amélioration continue  
-
----
-
-## 💼 Compétences clés en QA / Testing
-
-| 📝 Tests Manuels & Fonctionnels | ⚙️ Automatisation & Outils | 📄 Documentation & Reporting |
-|---------------------------------|---------------------------|-----------------------------|
-| Scénarios de test détaillés      | Cypress / E2E Testing    | Rapports clairs & captures d’écran |
-| Tests exploratoires              | Validation de formulaires | Suivi des anomalies / Jira / Trello |
-| Tests d’API REST                 | Intégration continue     | Documentation technique précise |
-| Tests UX / Accessibilité         | Lighthouse / SEO         | Checklist QA & protocoles |
-| Revue des exigences              | Suivi des performances   | Communication avec les équipes dev |
-
----
-
-## 🚀 Projets QA principaux
+## 🚀 Projets QA & Développement
 
 ### 1️⃣ Argent Bank – Application bancaire
+- [Voir le projet sur GitHub](https://github.com/kahinas24/argent-bank)  
 - Tests fonctionnels sur **connexion, tableau de bord et gestion des comptes**  
 - Scénarios complets et **automatisation avec Cypress**  
 - Rapports précis et suivi des anomalies  
 
+![Argent Bank - Dashboard](./img/argent-bank-dashboard.png)
+![Argent Bank - Login](./img/argent-bank-login.png)
+
 ### 2️⃣ NeoQualis – Plateforme QA
+- [Voir le projet sur GitHub](https://github.com/kahinas24/neoqualis)  
 - Tests manuels sur applications web diverses  
 - Rédaction de rapports détaillés avec captures d’écran  
 - Vérification des fonctionnalités critiques et compatibilité multi-navigateurs  
+
+![NeoQualis - Dashboard](./img/neoqualis-dashboard.png)
 
 ### 3️⃣ OpenClassrooms – 12 projets QA & Dev
 - Tests fonctionnels sur **sites vitrines, mini-apps React et API Node.js**  
 - Détection de bugs, rédaction de rapports et suivi qualité  
 - Collaboration avec les développeurs pour correction rapide  
 
+![OpenClassrooms Project Example](./img/openclassrooms-project.png)
+
 ---
 
-## 💻 Compétences complémentaires Front-End
-- React, HTML, CSS pour comprendre et tester les applications  
-- Sensibilité au responsive design, performance et accessibilité  
-- Capacité à collaborer avec les développeurs pour améliorer l’expérience utilisateur  
+## 💻 Compétences clés
+
+- **QA / Testing** : Tests manuels, E2E Cypress, API REST, UX/Accessibilité, Lighthouse, Jira/Trello  
+- **Front-End** : React, HTML, CSS, Responsive Design  
+- **Documentation** : Rapports clairs, captures d’écran, protocoles QA  
 
 ---
 
 ## 📄 CV & Certifications
+
 [📄 Télécharger mon CV PDF](./docs/CV_Kahina_Saidi.pdf)
 
-- Certifications & Diplômes :  
-  - **OpenClassrooms** : 12 projets QA et développement front-end complétés  
-  - **Master en Informatique Industrielle** : formation complète en systèmes et développement  
-  - Formation intégration web et développement front-end  
+- **OpenClassrooms** : 12 projets QA et développement front-end complétés  
+- **Master en Informatique Industrielle** : formation complète en systèmes et développement  
+- Formation intégration web et développement front-end  
 
 ---
 
 ## 🌐 Me contacter
 - ✉️ Email : kahinas24@example.com  
-- 🔗 LinkedIn : [linkedin.com/in/Kahina-saidi-Qa](https://www.linkedin.com/in/Kahina-saidi-Qa)
+- 🔗 LinkedIn : [linkedin.com/in/Kahina-saidi-Qa](https://www.linkedin.com/in/Kahina-saidi-Qa)  
 - 💻 GitHub : [github.com/kahinas24](https://github.com/kahinas24)
