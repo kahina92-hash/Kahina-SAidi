@@ -71,5 +71,5 @@
 
 ## 🌐 Me contacter
 - ✉️ Email : kahina_saidi@hotmail.com  
-- 🔗 LinkedIn : [linkedin.com/in/kahinas24](www.linkedin.com/in/kahina24)  
+- 🔗 LinkedIn : [linkedin.com/in/kahinas24](https://www.linkedin.com/in/kahinas24)
 - 💻 GitHub : [github.com/kahinas24](https://github.com/kahinas24)
