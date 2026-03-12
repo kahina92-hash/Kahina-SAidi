@@ -1,5 +1,5 @@
 🛠 Kahina Saidi – QA Tester & Manual Testing Specialist
-
+![Ma photo](./img/photo.png)
 👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications. Mon objectif : détecter, documenter et résoudre les bugs avant qu’ils n’atteignent les utilisateurs.
 
 🔹 À propos de moi
