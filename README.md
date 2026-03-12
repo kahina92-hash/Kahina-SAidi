@@ -74,5 +74,5 @@
 
 ## 🌐 Me contacter
 - ✉️ Email : kahinas24@example.com  
-- 🔗 LinkedIn : [linkedin.com/in/kahina24](https://www.linkedin.com/in/kahina24)
+- 🔗 LinkedIn : [linkedin.com/in/Kahina-saidi-Qa](https://www.linkedin.com/in/Kahina-saidi-Qa)
 - 💻 GitHub : [github.com/kahinas24](https://github.com/kahinas24)
