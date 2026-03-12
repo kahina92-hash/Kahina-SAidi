@@ -60,12 +60,12 @@
 - Capacité à collaborer avec les développeurs pour améliorer l’expérience utilisateur  
 
 ---
-
 ## 📄 CV & Certifications
 - [Télécharger mon CV PDF](#)  
-- Certifications :  
+- Certifications & Diplômes :  
   - **OpenClassrooms** : 12 projets QA et développement front-end complétés  
-  - Formation intégration web et développement front-end  
+  - **Master en Informatique Industrielle** : formation complète en systèmes et développement  
+
 
 ---
 
