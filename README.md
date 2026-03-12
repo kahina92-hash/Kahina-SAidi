@@ -70,6 +70,6 @@
 ---
 
 ## 🌐 Me contacter
-- ✉️ Email : kahinas24@example.com  
-- 🔗 LinkedIn : [linkedin.com/in/kahinas24](https://linkedin.com/in/kahinas24)  
+- ✉️ Email : kahina_saidi@hotmail.com  
+- 🔗 LinkedIn : [linkedin.com/in/kahinas24](www.linkedin.com/in/kahina24)  
 - 💻 GitHub : [github.com/kahinas24](https://github.com/kahinas24)
