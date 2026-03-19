@@ -1,5 +1,6 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="./img/photo.png" alt="Ma photo" width="150" style="border-radius: 50%; margin-right: 20px;">
+  
    Kahina Saidi – QA Tester & Manual Testing Specialist
 
 👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications.  
