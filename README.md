@@ -22,7 +22,7 @@
 - Scénarios complets et **automatisation avec Cypress**  
 - Rapports précis et suivi des anomalies  
 
-![Argent Bank - Dashboard](./frontend/ArgentBank-Frontend/mon-application/cypress/videos/auth/login.cy.js.mp4)
+![Argent Bank - Dashboard](.img/login.cy.js.mp4)
 ![Argent Bank - Login](./img/argent-bank-login.png)
 
 ### 2️⃣ NeoQualis – Plateforme QA
