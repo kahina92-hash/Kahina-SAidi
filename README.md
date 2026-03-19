@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="./img/photo.png" alt="Ma photo" width="150" style="border-radius: 50%; margin-right: 20px;">
-  # 🛠 Kahina Saidi – QA Tester & Manual Testing Specialist
+   Kahina Saidi – QA Tester & Manual Testing Specialist
 
 👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications.  
 Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’atteignent les utilisateurs**
@@ -10,8 +10,7 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 ### 🔧 Certifications
 
 ![Cypress](https://img.shields.io/badge/Cypress-Automation-red)  
-![ISTQB](https://img.shields.io/badge/ISTQB-Certified-green)  
-![QA](https://img.shields.io/badge/QA-Manual%20Testing-blue)
+ ![QA](https://img.shields.io/badge/QA-Manual%20Testing-blue)
 ---
 
 ## 🚀 Projets QA & Développement
