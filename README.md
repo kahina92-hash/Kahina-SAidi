@@ -22,7 +22,7 @@
 - Scénarios complets et **automatisation avec Cypress**  
 - Rapports précis et suivi des anomalies  
 
-![Argent Bank - Dashboard](frontend/ArgentBank-Frontend/mon-application/cypress/videos/auth/login.cy.js.mp4)
+![Argent Bank - Dashboard](./frontend/ArgentBank-Frontend/mon-application/cypress/videos/auth/login.cy.js.mp4)
 ![Argent Bank - Login](./img/argent-bank-login.png)
 
 ### 2️⃣ NeoQualis – Plateforme QA
@@ -31,7 +31,7 @@
 - Rédaction de rapports détaillés avec captures d’écran  
 - Vérification des fonctionnalités critiques et compatibilité multi-navigateurs  
 
-![NeoQualis - Dashboard](./img/neoqualis-dashboard.png)
+![NeoQualis - Dashboard](./frontend/ArgentBank-Frontend/mon-application/cypress/videos/auth/login.cy.js.mp4)
 
 ### 3️⃣ OpenClassrooms – 12 projets QA & Dev
 - Tests fonctionnels sur **sites vitrines, mini-apps React et API Node.js**  
