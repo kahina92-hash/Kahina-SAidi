@@ -17,12 +17,12 @@
 ## 🚀 Projets QA & Développement
 
 ### 1️⃣ Argent Bank – Application bancaire
-- [Voir le projet sur GitHub](https://github.com/kahinas24/argent-bank)  
+- [Voir le projet sur GitHub](https://github.com/kahina92-hash/argentbank.git)  
 - Tests fonctionnels sur **connexion, tableau de bord et gestion des comptes**  
 - Scénarios complets et **automatisation avec Cypress**  
 - Rapports précis et suivi des anomalies  
 
-![Argent Bank - Dashboard](./img/argent-bank-dashboard.png)
+![Argent Bank - Dashboard](frontend/ArgentBank-Frontend/mon-application/cypress/videos/auth/login.cy.js.mp4)
 ![Argent Bank - Login](./img/argent-bank-login.png)
 
 ### 2️⃣ NeoQualis – Plateforme QA
