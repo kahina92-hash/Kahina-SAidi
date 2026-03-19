@@ -17,7 +17,9 @@
 ## 🚀 Projets QA & Développement
 
 ### 1️⃣ Argent Bank – Application bancaire
-- [Voir le projet sur GitHub](https://github.com/kahina92-hash/argentbank.git)  
+<video controls width="600">
+  <source src="./img/login.cy.js.mp4" type="video/mp4">
+</video>
 - Tests fonctionnels sur **connexion, tableau de bord et gestion des comptes**  
 - Scénarios complets et **automatisation avec Cypress**  
 - Rapports précis et suivi des anomalies  
