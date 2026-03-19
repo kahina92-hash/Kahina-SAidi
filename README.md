@@ -13,7 +13,6 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
 ![Jira](https://img.shields.io/badge/Jira-Bug%20Tracking-blue)
 ![Squash TM](https://img.shields.io/badge/SquashTM-Test%20Management-orange)
-![ISTQB](https://img.shields.io/badge/ISTQB-Certified-success)
 ![QA Manual Testing](https://img.shields.io/badge/QA-Manual%20Testing-blue)
 
 ---
