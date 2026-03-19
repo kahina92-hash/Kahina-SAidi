@@ -1,17 +1,31 @@
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="./img/photo.png" alt="Ma photo" width="150" style="border-radius: 50%; margin-right: 20px;">
-  
-   Kahina Saidi – QA Tester & Manual Testing Specialist
+# 🛠 Kahina Saidi – QA Tester & Manual Testing Specialist
 
 👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications.  
 Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’atteignent les utilisateurs**
 
 ---
 
-### 🔧 Certifications
+## 🔧 Certifications & Outils QA
 
-![Cypress](https://img.shields.io/badge/Cypress-Automation-red)  
- ![QA](https://img.shields.io/badge/QA-Manual%20Testing-blue)
+![Cypress](https://img.shields.io/badge/Cypress-Automation-red)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
+![Jira](https://img.shields.io/badge/Jira-Bug%20Tracking-blue)
+![Squash TM](https://img.shields.io/badge/SquashTM-Test%20Management-orange)
+![ISTQB](https://img.shields.io/badge/ISTQB-Certified-success)
+![QA Manual Testing](https://img.shields.io/badge/QA-Manual%20Testing-blue)
+
+---
+
+## 🚀 À propos de moi
+
+- 🧪 QA Tester spécialisée en tests fonctionnels et tests E2E
+- 🐞 Rédaction et suivi de bugs avec **Jira**
+- 🔍 Conception de scénarios de test et plans de test
+- ⚙️ Automatisation des tests avec **Cypress & Selenium**
+- 📊 Utilisation d’outils de gestion de tests comme **Squash TM**
+- 🌐 Tests multi-navigateurs et responsive design
+- 📄 Rédaction de rapports QA détaillés
+
 ---
 
 ## 🚀 Projets QA & Développement
@@ -20,12 +34,12 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 
 ### 1️⃣ Argent Bank – Application bancaire
 
-![Argent Bank Login Demo](./img/login.gif)
+![Argent Bank Demo](./img/login.gif)
 
-- Tests fonctionnels sur **connexion, tableau de bord et gestion des comptes**
-- Scénarios complets et **automatisation avec Cypress**
-- Rapports précis et suivi des anomalies
-- Tests E2E sur les parcours utilisateur critiques
+- Tests fonctionnels sur connexion, dashboard et gestion des comptes
+- Automatisation des tests E2E avec **Cypress**
+- Suivi des anomalies et bugs
+- Validation des parcours utilisateurs critiques
 
 ---
 
@@ -33,10 +47,10 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 
 ![NeoQualis Dashboard](./img/neoqualis.gif)
 
-- Tests manuels sur applications web diverses
-- Rédaction de rapports détaillés avec captures d’écran
-- Vérification des fonctionnalités critiques
-- Tests multi-navigateurs et responsive design
+- Tests manuels complets sur application web
+- Création de cas de test avec **Squash TM**
+- Gestion des bugs avec **Jira**
+- Vérification cross-browser et responsive
 
 ---
 
@@ -44,19 +58,40 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 
 ![OpenClassrooms Project](./img/openclassrooms.gif)
 
-- Tests fonctionnels sur sites vitrines, mini-apps React et API Node.js
-- Détection de bugs et rédaction de rapports QA
-- Collaboration avec développeurs pour correction rapide
-- Mise en pratique des bonnes pratiques QA
+- Tests fonctionnels sur applications React & Node.js
+- Rédaction de rapports QA complets
+- Détection et reproduction de bugs
+- Collaboration avec équipes dev
 
 ---
 
-## 💻 Compétences clés
+## 💻 Compétences techniques
 
-- **QA / Testing** : Tests manuels, E2E Cypress, API REST, UX/Accessibilité, Lighthouse, Jira, Trello  
-- **Front-End** : React, HTML, CSS, Responsive Design  
-- **Automatisation** : Cypress, scénarios E2E, tests de non-régression  
-- **Documentation** : Rapports de bugs, checklists QA, captures d’écran  
+### 🧪 Testing
+- Tests manuels
+- Tests E2E (Cypress, Selenium)
+- Tests de non-régression
+- Tests API REST
+- Tests UX / Accessibilité
+
+### 🛠 Outils QA
+- Jira (Bug tracking)
+- Squash TM (Test management)
+- Cypress
+- Selenium WebDriver
+- Postman
+
+### 💻 Front-End
+- HTML / CSS
+- JavaScript
+- React
+- Responsive Design
+
+### 📊 Méthodologies
+- Agile / Scrum
+- Cycle de vie des tests (STLC)
+- Rédaction de plans de test
+- Reporting QA
 
 ---
 
@@ -66,7 +101,7 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 
 - 🎓 OpenClassrooms : 12 projets QA & développement front-end
 - 🎓 Master en Informatique Industrielle
-- 🎓 Formation intégration web & développement front-end
+- 🎓 Formation intégration web & QA testing
 
 ---
 
