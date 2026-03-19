@@ -3,7 +3,8 @@
   <div>
     <h1>🛠 Kahina Saidi – QA Tester & Manual Testing Specialist</h1>
     
-    <p>👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications.  
+    <p>
+      👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications.  
       Mon objectif : <strong>détecter, documenter et résoudre les bugs avant qu’ils n’atteignent les utilisateurs</strong>.
     </p>
 
@@ -11,14 +12,15 @@
       <a href="https://www.cypress.io/">
         <img src="https://img.shields.io/badge/Cypress-Automation-red" alt="Cypress">
       </a>
+
       <a href="https://www.istqb.org/">
         <img src="https://img.shields.io/badge/ISTQB-Certified-green" alt="ISTQB">
       </a>
+
       <a href="#">
         <img src="https://img.shields.io/badge/QA-Manual%20Testing-blue" alt="QA">
       </a>
     </p>
-  </div>
 </div>
 
 ---
