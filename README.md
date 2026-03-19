@@ -1,28 +1,17 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="./img/photo.png" alt="Ma photo" width="150" style="border-radius: 50%; margin-right: 20px;">
-  <div>
-    <h1>🛠 Kahina Saidi – QA Tester & Manual Testing Specialist</h1>
-    
-    <p>
-      👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications.  
-      Mon objectif : <strong>détecter, documenter et résoudre les bugs avant qu’ils n’atteignent les utilisateurs</strong>.
-    </p>
+  # 🛠 Kahina Saidi – QA Tester & Manual Testing Specialist
 
-    <p>
-      <a href="https://www.cypress.io/">
-        <img src="https://img.shields.io/badge/Cypress-Automation-red" alt="Cypress">
-      </a>
+👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications.  
+Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’atteignent les utilisateurs**
 
-      <a href="https://www.istqb.org/">
-        <img src="https://img.shields.io/badge/ISTQB-Certified-green" alt="ISTQB">
-      </a>
+---
 
-      <a href="#">
-        <img src="https://img.shields.io/badge/QA-Manual%20Testing-blue" alt="QA">
-      </a>
-    </p>
-</div>
+### 🔧 Certifications
 
+![Cypress](https://img.shields.io/badge/Cypress-Automation-red)  
+![ISTQB](https://img.shields.io/badge/ISTQB-Certified-green)  
+![QA](https://img.shields.io/badge/QA-Manual%20Testing-blue)
 ---
 
 ## 🚀 Projets QA & Développement
