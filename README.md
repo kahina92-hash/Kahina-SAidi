@@ -1,4 +1,5 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;"> <img src="./img/photo.png" alt="Ma photo" width="150" style="border-radius: 50%; margin-right: 20px;">
+  
 # 🛠 Kahina Saidi – QA Tester | Manual & Automation Testing
 
 👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications.  
@@ -46,18 +47,30 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 
 ### 🧑‍💻 Accès au Dashboard (après connexion)
 
-![Dashboard Test](./img/dashboard.gif)
 
----
 
-### 🐞 Bug Report Exemple
+### 🐞 Bug Report 
+
+![Bug Login](./img/profile.cy.js.gif)
+
+### 🐞 Bug Report – Profile Data Not Displayed
 
 ![Bug Login](./img/bug-login.png)
 
-- **Bug :** Le bouton login ne redirige pas  
-- **Sévérité :** Haute  
-- **Résultat attendu :** accès au dashboard  
-- **Résultat réel :** aucune redirection  
+- **Bug :** Le nom utilisateur ne s’affiche pas après connexion  
+- **Sévérité :** Moyenne  
+
+- **Étapes :**
+  1. Aller sur la page login  
+  2. Saisir les identifiants  
+  3. Cliquer sur "Sign In"  
+
+- **Résultat attendu :** le nom utilisateur (ex: "Steve") s’affiche sur le dashboard  
+- **Résultat réel :** le nom n’apparaît pas  
+
+- **Détails techniques :**
+  - Erreur API : `POST /user/profile → 404`
+  - Échec du test Cypress : `expected undefined to exist`
 
 ---
 
@@ -68,13 +81,12 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 - Accès sécurisé au dashboard
 - Modification du profil
 
----
 
 ### 📊 Résultats
 
 - ✔ 10 tests exécutés  
-- ✔ 3 bugs détectés  
-- ✔ 1 bug critique  
+- ✔ 1 bugs détectés  
+
 
 ---
 
