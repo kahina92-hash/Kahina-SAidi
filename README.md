@@ -35,6 +35,12 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 
 ### 1️⃣ Argent Bank – Application bancaire
 
+🔧 Outils :
+
+Cypress (E2E)
+
+Jira (bugs)
+
 ![Argent Bank Demo](./img/login.gif)
 
 - Tests fonctionnels sur connexion, dashboard et gestion des comptes
