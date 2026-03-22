@@ -55,8 +55,6 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 
 ### 🐞 Bug Report – Profile Data Not Displayed
 
-![Bug Login](./img/bug-login.png)
-
 - **Bug :** Le nom utilisateur ne s’affiche pas après connexion  
 - **Sévérité :** Moyenne  
 
@@ -72,7 +70,6 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
   - Erreur API : `POST /user/profile → 404`
   - Échec du test Cypress : `expected undefined to exist`
 
----
 
 ### ✅ Scénarios testés
 
@@ -87,8 +84,6 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 - ✔ 10 tests exécutés  
 - ✔ 1 bugs détectés  
 
-
----
 
 ## 🧪 2️⃣ QA Testing – Web Application (NeoQualis)
 
