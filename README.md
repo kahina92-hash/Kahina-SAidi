@@ -1,1 +1,198 @@
-<div style="display: flex; align-items: center; margin-bottom: 20px;"> <img src="./img/photo.png" alt="Ma photo" width="150" style="border-radius: 50%; margin-right: 20px;"> # 🛠 Kahina Saidi – QA Tester | Manual & Automation Testing 👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications. Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’atteignent les utilisateurs** --- ## 🔧 Outils & Technologies QA ![Cypress](https://img.shields.io/badge/Cypress-Automation-red) ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green) ![Jira](https://img.shields.io/badge/Jira-Bug%20Tracking-blue) ![Squash TM](https://img.shields.io/badge/SquashTM-Test%20Management-orange) ![Postman](https://img.shields.io/badge/Postman-API%20Testing-ff6c37) --- ## 🚀 À propos de moi - 🧪 Tests manuels & automatisés (Cypress, Selenium) - 🐞 Détection et suivi de bugs avec Jira - 🔍 Rédaction de cas de test et plans de test - ⚙️ Automatisation E2E et tests API - 🌐 Tests multi-navigateurs & responsive - 📊 Méthodologie Agile / Scrum - 📄 Reporting QA clair et structuré --- ## 🚀 Projets QA --- ### 🧪 1️⃣ Mission Freelance – QA Testing Banking Application (Argent Bank) 🔧 **Outils utilisés :** Cypress | Jira | Postman --- ### 🔐 Test de connexion ![Login Test](./img/login.gif) --- ### 🧑‍💻 Accès au Dashboard (après connexion) ### 🐞 Bug Report ![Bug Login](./img/profile.cy.js.gif) ### 🐞 Bug Report – Profile Data Not Displayed - **Bug :** Le nom utilisateur ne s’affiche pas après connexion - **Sévérité :** Moyenne - **Étapes :** 1. Aller sur la page login 2. Saisir les identifiants 3. Cliquer sur "Sign In" - **Résultat attendu :** le nom utilisateur (ex: "Steve") s’affiche sur le dashboard - **Résultat réel :** le nom n’apparaît pas - **Détails techniques :** - Erreur API : POST /user/profile → 404 - Échec du test Cypress : expected undefined to exist ### ✅ Scénarios testés - Connexion utilisateur (valide / invalide) - Déconnexion - Accès sécurisé au dashboard - Modification du profil ### 📊 Résultats - ✔ 10 tests exécutés - ✔ 1 bugs détectés ## 🧪 2️⃣🧪 Mission QA – Application Web React (NeoQualis) 📍 France 📅 Contrat : CDD – Projet QA Web Application ![NeoQualis](./img/Kasa1.png) ![NeoQualis](./img/Kasa2.png) 🎯 Contexte Dans le cadre d’une mission QA chez Neoqualis, j’ai participé à la validation d’une application web développée avec React et React Router, visant à offrir une expérience utilisateur moderne et fluide. 🧪 Objectif de la mission Assurer la qualité fonctionnelle et visuelle d’une application front-end en : Vérifiant le bon affichage des composants React Validant la navigation entre les pages (React Router) Testant l’intégration des données simulées (JSON) Garantissant une expérience utilisateur cohérente 🔍 Activités réalisées 🧪 Tests manuels des composants React 🔗 Validation du routing (navigation entre pages) 📱 Tests responsive (mobile, tablette, desktop) 🐞 Détection et documentation des anomalies 📋 Rédaction de cas de test 🔄 Tests de non-régression 🛠 Environnement technique React React Router Vite Node.js JSON (mock data) 🐞 Exemple de bug détecté Bug : Navigation incorrecte entre pages Description : La route ne charge pas le bon composant Impact : Expérience utilisateur dégradée Correction : Vérification du routing React Router 🚀 Résultats ✔ Amélioration de la navigation utilisateur ✔ Correction de bugs UI et routing ✔ Validation complète du front-end ## 🧪 3️⃣ QA Testing – Projets OpenClassrooms #### 🎉 724events – Site vitrine événementiel (One-page) 🔗 Lien du projet : https://github.com/kahina92-hash/Menu-Marker.git ## 🎯 Objectifs du projet - Tests fonctionnels et UI/UX - Vérification du responsive design - Analyse des comportements de navigation - Détection de bugs visuels et techniques - Validation avant mise en production - - ## 📸 Site photographe – Nina Carducci 🔗 Lien du projet :https://github.com/kahina92-hash/Nina-Carducci.git Dans le cadre d’une mission d’optimisation web, j’ai travaillé sur le site vitrine de la photographe **Nina Carducci**. L’objectif était d’améliorer les performances du site, son référencement naturel (SEO) ainsi que son accessibilité. ## 🎯 Objectifs du projet - Optimiser les performances du site - Améliorer le référencement naturel (SEO) - Corriger les problèmes d’accessibilité - Réduire le temps de chargement des pages - Améliorer la structure du code HTML - ## 💻 Compétences ### 🧪 Testing - Tests manuels - Tests E2E (Cypress, Selenium) - Tests API REST (Postman) - Tests de non-régression - Tests UX / Accessibilité ### 📁 Projets QA ### 📊 Outils utilisés - Postman - Cypress - Git & GitHub - VS Code - JSON Server - Chrome DevTools ### 🧠 Compétences QA développées - Analyse des besoins fonctionnels - Tests manuels & automatisés - Validation des API REST - Gestion des scénarios de test - Travail en environnement Agile ## 📄 CV 📄 [Télécharger mon CV](./docs/CV_Kahina_Saidi.pdf) --- ## 🌐 Contact - ✉️ kahinas24@example.com - 🔗 https://www.linkedin.com/in/Kahina-saidi-Qa - 💻 https://github.com/kahinas24🔗 LinkedIn : https://www.linkedin.com/in/Kahina-saidi-Qa - 💻 GitHub : https://github.com/kahinas24 voila corriger le pour l optimiser
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="./img/photo.png" alt="Ma photo" width="150" style="border-radius: 50%; margin-right: 20px;">
+
+# 🛠 Kahina Saidi – QA Tester | Manual & Automation Testing
+
+👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications.  
+🎯 Mon objectif : détecter, documenter et résoudre les bugs avant qu’ils n’atteignent les utilisateurs.
+</div>
+
+---
+
+## 🔧 Outils & Technologies QA
+
+![Cypress](https://img.shields.io/badge/Cypress-Automation-red)
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
+![Jira](https://img.shields.io/badge/Jira-Bug%20Tracking-blue)
+![Squash TM](https://img.shields.io/badge/SquashTM-Test%20Management-orange)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-ff6c37)
+
+---
+
+## 🚀 À propos de moi
+
+- 🧪 Tests manuels & automatisés (Cypress, Selenium)
+- 🐞 Détection et suivi de bugs avec Jira
+- 🔍 Rédaction de cas de test et plans de test
+- ⚙️ Automatisation E2E et tests API
+- 🌐 Tests multi-navigateurs & responsive
+- 📊 Méthodologie Agile / Scrum
+- 📄 Reporting QA clair et structuré
+
+---
+
+## 🚀 Projets QA
+
+---
+
+### 🧪 1️⃣ Mission Freelance – QA Testing Banking Application (Argent Bank)
+
+🔧 **Outils utilisés :** Cypress | Jira | Postman  
+
+---
+
+### 🔐 Test de connexion
+
+![Login Test](./img/login.gif)
+
+---
+
+### 🧑‍💻 Accès au Dashboard
+
+---
+
+### 🐞 Bug Report – Profile Data Not Displayed
+
+- **Bug :** Le nom utilisateur ne s’affiche pas après connexion  
+- **Sévérité :** Moyenne  
+
+### 📌 Étapes :
+1. Aller sur la page login  
+2. Saisir les identifiants  
+3. Cliquer sur "Sign In"  
+
+### 🎯 Résultat attendu :
+Le nom utilisateur doit s’afficher sur le dashboard.
+
+### ❌ Résultat réel :
+Le nom n’apparaît pas.
+
+### 🔍 Détails techniques :
+- API : `POST /user/profile`
+- Erreur : `404`
+- Cypress : `expected undefined to exist`
+
+---
+
+### 📊 Scénarios testés
+
+- ✔ Connexion utilisateur (valide / invalide)
+- ✔ Déconnexion
+- ✔ Accès sécurisé au dashboard
+- ✔ Modification du profil
+
+---
+
+### 📈 Résultats
+
+- ✔ 10 tests exécutés  
+- ✔ 1 bug détecté  
+
+---
+
+## 🧪 2️⃣ Mission QA – Application Web React (NeoQualis)
+
+📍 France – Projet QA Web Application
+
+---
+
+### 🎯 Objectif
+
+Assurer la qualité fonctionnelle et visuelle d’une application React.
+
+---
+
+### 🔍 Activités réalisées
+
+- 🧪 Tests manuels des composants React  
+- 🔗 Validation du routing (React Router)  
+- 📱 Tests responsive  
+- 🐞 Détection et documentation des anomalies  
+- 📋 Rédaction de cas de test  
+- 🔄 Tests de non-régression  
+
+---
+
+### 🛠 Environnement technique
+
+React | React Router | Vite | Node.js | JSON
+
+---
+
+### 🐞 Exemple de bug
+
+- **Bug :** Navigation incorrecte entre pages  
+- **Impact :** Mauvaise expérience utilisateur  
+- **Correction :** Vérification du routing React Router  
+
+---
+
+### 🚀 Résultats
+
+- ✔ Amélioration navigation  
+- ✔ Correction bugs UI  
+- ✔ Validation front-end  
+
+---
+
+## 🧪 3️⃣ QA Testing – Projets OpenClassrooms
+
+---
+
+### 🎉 724events – Site événementiel
+
+🔗 GitHub : https://github.com/kahina92-hash/Menu-Marker.git  
+
+#### 🎯 Objectifs
+- Tests UI/UX  
+- Responsive design  
+- Navigation  
+- Détection de bugs  
+- Validation avant production  
+
+---
+
+### 📸 Site photographe – Nina Carducci
+
+🔗 GitHub : https://github.com/kahina92-hash/Nina-Carducci.git  
+
+#### 🎯 Objectifs
+- Optimisation performances  
+- SEO  
+- Accessibilité  
+- Réduction temps de chargement  
+- Structure HTML  
+
+---
+
+## 🧠 Compétences QA
+
+### 🧪 Testing
+- Tests manuels
+- Tests E2E (Cypress, Selenium)
+- Tests API (Postman)
+- Tests de non-régression
+- Tests UX / accessibilité
+
+### ⚙️ Outils
+Postman • Cypress • Git • GitHub • VS Code • Chrome DevTools
+
+### 📊 Méthodologie
+- Agile / Scrum  
+- Analyse fonctionnelle  
+- Gestion des cas de test  
+- Reporting QA  
+
+---
+
+## 📄 CV
+
+📄 [Télécharger mon CV](./docs/CV_Kahina_Saidi.pdf)
+
+---
+
+## 🌐 Contact
+
+- ✉️ kahinas24@example.com  
+- 🔗 LinkedIn : https://www.linkedin.com/in/Kahina-saidi-Qa  
+- 💻 GitHub : https://github.com/kahinas24  
