@@ -193,6 +193,6 @@ L’objectif était d’améliorer les performances du site, son référencement
 
 ## 🌐 Contact
 
-- ✉️ kahinas24@example.com  
+- ✉️ kahina_saidi@hotmail.com 
 - 🔗 https://www.linkedin.com/in/Kahina-saidi-Qa  
 - 💻 https://github.com/kahinas24  
