@@ -33,7 +33,7 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 
 ---
 
-### 🧪 1️⃣ Banking Application Testing (Argent Bank)
+### 🧪 1️⃣ Mission Freelance – QA Testing Banking Application (Argent Bank)
 
 🔧 **Outils utilisés :** Cypress | Jira | Postman  
 
@@ -85,16 +85,42 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 - ✔ 1 bugs détectés  
 
 
-## 🧪 2️⃣ QA Testing – Web Application (NeoQualis)
-
+## 🧪 2️⃣ QA Tester – CDD (NeoQualis)
+📍 France
+📅 Contrat : CDD – Projet QA Web Application
 ![NeoQualis](./img/neoqualis.gif)
+🎯 Missions
 
-- Tests manuels complets
-- Création de cas de test (Squash TM)
-- Gestion des anomalies (Jira)
-- Tests cross-browser
+Dans le cadre d’un projet de test d’une application web, j’ai contribué à garantir la qualité logicielle :
 
----
+🧪 Tests manuels fonctionnels et exploratoires
+📋 Rédaction de cas de test (Squash TM)
+🐞 Détection et suivi des anomalies (Jira)
+🌐 Tests cross-browser (Chrome, Firefox, Edge)
+📱 Tests responsive (mobile / tablette)
+🔍 Validation des parcours utilisateurs
+
+📋 Activités réalisées
+Conception et exécution de cas de test
+Validation des fonctionnalités
+Identification et reproduction des bugs
+Collaboration avec les développeurs
+Reporting QA structuré
+🛠 Outils utilisés
+Cypress
+Jira
+Squash TM
+Chrome DevTools
+
+🐞 Exemple d’anomalie
+Bug : Problème d’affichage sur mobile
+Sévérité : Moyenne
+Résultat : Corrigé après retest
+
+🚀 Résultats
+✔ Détection d’anomalies critiques
+✔ Amélioration de la qualité produit
+✔ Contribution à une démarche QA professionnelle
 
 ## 🧪 3️⃣ QA Testing – Projets OpenClassrooms
 
