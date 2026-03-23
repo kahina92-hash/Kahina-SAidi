@@ -135,6 +135,8 @@ Correction : Vérification du routing React Router
 
 #### 🎉 724events – Site vitrine événementiel (One-page)
 🔗 Lien du projet : https://github.com/kahina92-hash/Menu-Marker.git
+
+## 🎯 Objectifs du projet
 - Tests fonctionnels et UI/UX
 - Vérification du responsive design
 - Analyse des comportements de navigation
