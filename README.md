@@ -88,7 +88,8 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 ## 🧪 2️⃣🧪 Mission QA – Application Web React (NeoQualis)
 📍 France
 📅 Contrat : CDD – Projet QA Web Application
-![NeoQualis](./img/neoqualis.gif)
+![NeoQualis](./img/Kasa1.png)
+![NeoQualis](./img/Kasa2.png)
 
 🎯 Contexte
 
