@@ -187,7 +187,7 @@ L’objectif était d’améliorer les performances du site, son référencement
 
 ## 📄 CV
 
-📄 [Télécharger mon CV](./docs/CV_Kahina_Saidi.pdf)
+📄 [Télécharger mon CV](./docs/CV.pdf)
 
 ---
 
