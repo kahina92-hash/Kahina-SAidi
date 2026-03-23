@@ -1,11 +1,10 @@
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="./img/photo.png" alt="Ma photo" width="150" style="border-radius: 50%; margin-right: 20px;">
+<img src="./img/photo.png" alt="Ma photo" width="150" style="border-radius: 50%; margin-right: 20px;">
 
 # 🛠 Kahina Saidi – QA Tester | Manual & Automation Testing
 
 👋 Bonjour ! Je suis Kahina, passionnée par la qualité logicielle et la fiabilité des applications.  
-🎯 Mon objectif : détecter, documenter et résoudre les bugs avant qu’ils n’atteignent les utilisateurs.
-</div>
+Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’atteignent les utilisateurs**
 
 ---
 
@@ -47,143 +46,144 @@
 
 ---
 
-### 🧑‍💻 Accès au Dashboard
+### 🧑‍💻 Accès au Dashboard (après connexion)
 
 ---
+
+### 🐞 Bug Report 
+
+![Bug Login](./img/profile.cy.js.gif)
 
 ### 🐞 Bug Report – Profile Data Not Displayed
 
 - **Bug :** Le nom utilisateur ne s’affiche pas après connexion  
 - **Sévérité :** Moyenne  
 
-### 📌 Étapes :
-1. Aller sur la page login  
-2. Saisir les identifiants  
-3. Cliquer sur "Sign In"  
+- **Étapes :**
+  1. Aller sur la page login  
+  2. Saisir les identifiants  
+  3. Cliquer sur "Sign In"  
 
-### 🎯 Résultat attendu :
-Le nom utilisateur doit s’afficher sur le dashboard.
+- **Résultat attendu :** le nom utilisateur (ex: "Steve") s’affiche sur le dashboard  
+- **Résultat réel :** le nom n’apparaît pas  
 
-### ❌ Résultat réel :
-Le nom n’apparaît pas.
+- **Détails techniques :**
+  - Erreur API : `POST /user/profile → 404`
+  - Échec du test Cypress : `expected undefined to exist`
 
-### 🔍 Détails techniques :
-- API : `POST /user/profile`
-- Erreur : `404`
-- Cypress : `expected undefined to exist`
 
----
+### ✅ Scénarios testés
 
-### 📊 Scénarios testés
+- Connexion utilisateur (valide / invalide)
+- Déconnexion
+- Accès sécurisé au dashboard
+- Modification du profil
 
-- ✔ Connexion utilisateur (valide / invalide)
-- ✔ Déconnexion
-- ✔ Accès sécurisé au dashboard
-- ✔ Modification du profil
 
----
-
-### 📈 Résultats
+### 📊 Résultats
 
 - ✔ 10 tests exécutés  
-- ✔ 1 bug détecté  
+- ✔ 1 bugs détectés  
 
----
 
-## 🧪 2️⃣ Mission QA – Application Web React (NeoQualis)
+## 🧪 2️⃣🧪 Mission QA – Application Web React (NeoQualis)
+📍 France
+📅 Contrat : CDD – Projet QA Web Application
+![NeoQualis](./img/Kasa1.png)
+![NeoQualis](./img/Kasa2.png)
 
-📍 France – Projet QA Web Application
+🎯 Contexte
 
----
+Dans le cadre d’une mission QA chez Neoqualis, j’ai participé à la validation d’une application web développée avec React et React Router, visant à offrir une expérience utilisateur moderne et fluide.
 
-### 🎯 Objectif
+🧪 Objectif de la mission
 
-Assurer la qualité fonctionnelle et visuelle d’une application React.
+Assurer la qualité fonctionnelle et visuelle d’une application front-end en :
 
----
+Vérifiant le bon affichage des composants React
+Validant la navigation entre les pages (React Router)
+Testant l’intégration des données simulées (JSON)
+Garantissant une expérience utilisateur cohérente
 
-### 🔍 Activités réalisées
+🔍 Activités réalisées
+🧪 Tests manuels des composants React
+🔗 Validation du routing (navigation entre pages)
+📱 Tests responsive (mobile, tablette, desktop)
+🐞 Détection et documentation des anomalies
+📋 Rédaction de cas de test
+🔄 Tests de non-régression
 
-- 🧪 Tests manuels des composants React  
-- 🔗 Validation du routing (React Router)  
-- 📱 Tests responsive  
-- 🐞 Détection et documentation des anomalies  
-- 📋 Rédaction de cas de test  
-- 🔄 Tests de non-régression  
+🛠 Environnement technique
 
----
+React
+React Router
+Vite
+Node.js
+JSON (mock data)
 
-### 🛠 Environnement technique
+🐞 Exemple de bug détecté
+Bug : Navigation incorrecte entre pages
+Description : La route ne charge pas le bon composant
+Impact : Expérience utilisateur dégradée
+Correction : Vérification du routing React Router
 
-React | React Router | Vite | Node.js | JSON
-
----
-
-### 🐞 Exemple de bug
-
-- **Bug :** Navigation incorrecte entre pages  
-- **Impact :** Mauvaise expérience utilisateur  
-- **Correction :** Vérification du routing React Router  
-
----
-
-### 🚀 Résultats
-
-- ✔ Amélioration navigation  
-- ✔ Correction bugs UI  
-- ✔ Validation front-end  
-
----
+🚀 Résultats
+✔ Amélioration de la navigation utilisateur
+✔ Correction de bugs UI et routing
+✔ Validation complète du front-end
 
 ## 🧪 3️⃣ QA Testing – Projets OpenClassrooms
 
----
+#### 🎉 724events – Site vitrine événementiel (One-page)
+🔗 Lien du projet : https://github.com/kahina92-hash/Menu-Marker.git
 
-### 🎉 724events – Site événementiel
+## 🎯 Objectifs du projet
+- Tests fonctionnels et UI/UX
+- Vérification du responsive design
+- Analyse des comportements de navigation
+- Détection de bugs visuels et techniques
+- Validation avant mise en production
 
-🔗 GitHub : https://github.com/kahina92-hash/Menu-Marker.git  
+## 📸 Site photographe – Nina Carducci
+🔗 Lien du projet : https://github.com/kahina92-hash/Nina-Carducci.git
 
-#### 🎯 Objectifs
-- Tests UI/UX  
-- Responsive design  
-- Navigation  
-- Détection de bugs  
-- Validation avant production  
+Dans le cadre d’une mission d’optimisation web, j’ai travaillé sur le site vitrine de la photographe **Nina Carducci**.
 
----
+L’objectif était d’améliorer les performances du site, son référencement naturel (SEO) ainsi que son accessibilité.
 
-### 📸 Site photographe – Nina Carducci
+## 🎯 Objectifs du projet
 
-🔗 GitHub : https://github.com/kahina92-hash/Nina-Carducci.git  
+- Optimiser les performances du site
+- Améliorer le référencement naturel (SEO)
+- Corriger les problèmes d’accessibilité
+- Réduire le temps de chargement des pages
+- Améliorer la structure du code HTML
 
-#### 🎯 Objectifs
-- Optimisation performances  
-- SEO  
-- Accessibilité  
-- Réduction temps de chargement  
-- Structure HTML  
-
----
-
-## 🧠 Compétences QA
+## 💻 Compétences
 
 ### 🧪 Testing
 - Tests manuels
 - Tests E2E (Cypress, Selenium)
-- Tests API (Postman)
+- Tests API REST (Postman)
 - Tests de non-régression
-- Tests UX / accessibilité
+- Tests UX / Accessibilité
 
-### ⚙️ Outils
-Postman • Cypress • Git • GitHub • VS Code • Chrome DevTools
+### 📁 Projets QA
 
-### 📊 Méthodologie
-- Agile / Scrum  
-- Analyse fonctionnelle  
-- Gestion des cas de test  
-- Reporting QA  
+### 📊 Outils utilisés
+- Postman  
+- Cypress  
+- Git & GitHub  
+- VS Code  
+- JSON Server  
+- Chrome DevTools  
 
----
+### 🧠 Compétences QA développées
+- Analyse des besoins fonctionnels  
+- Tests manuels & automatisés  
+- Validation des API REST  
+- Gestion des scénarios de test  
+- Travail en environnement Agile  
 
 ## 📄 CV
 
@@ -194,5 +194,5 @@ Postman • Cypress • Git • GitHub • VS Code • Chrome DevTools
 ## 🌐 Contact
 
 - ✉️ kahinas24@example.com  
-- 🔗 LinkedIn : https://www.linkedin.com/in/Kahina-saidi-Qa  
-- 💻 GitHub : https://github.com/kahinas24  
+- 🔗 https://www.linkedin.com/in/Kahina-saidi-Qa  
+- 💻 https://github.com/kahinas24  
