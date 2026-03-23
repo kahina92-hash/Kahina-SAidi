@@ -85,42 +85,50 @@ Mon objectif : **détecter, documenter et résoudre les bugs avant qu’ils n’
 - ✔ 1 bugs détectés  
 
 
-## 🧪 2️⃣ QA Tester – CDD (NeoQualis)
+## 🧪 2️⃣🧪 Mission QA – Application Web React (NeoQualis)
 📍 France
 📅 Contrat : CDD – Projet QA Web Application
 ![NeoQualis](./img/neoqualis.gif)
-🎯 Missions
 
-Dans le cadre d’un projet de test d’une application web, j’ai contribué à garantir la qualité logicielle :
+🎯 Contexte
 
-🧪 Tests manuels fonctionnels et exploratoires
-📋 Rédaction de cas de test (Squash TM)
-🐞 Détection et suivi des anomalies (Jira)
-🌐 Tests cross-browser (Chrome, Firefox, Edge)
-📱 Tests responsive (mobile / tablette)
-🔍 Validation des parcours utilisateurs
+Dans le cadre d’une mission QA chez Neoqualis, j’ai participé à la validation d’une application web développée avec React et React Router, visant à offrir une expérience utilisateur moderne et fluide.
 
-📋 Activités réalisées
-Conception et exécution de cas de test
-Validation des fonctionnalités
-Identification et reproduction des bugs
-Collaboration avec les développeurs
-Reporting QA structuré
-🛠 Outils utilisés
-Cypress
-Jira
-Squash TM
-Chrome DevTools
+🧪 Objectif de la mission
 
-🐞 Exemple d’anomalie
-Bug : Problème d’affichage sur mobile
-Sévérité : Moyenne
-Résultat : Corrigé après retest
+Assurer la qualité fonctionnelle et visuelle d’une application front-end en :
+
+Vérifiant le bon affichage des composants React
+Validant la navigation entre les pages (React Router)
+Testant l’intégration des données simulées (JSON)
+Garantissant une expérience utilisateur cohérente
+
+🔍 Activités réalisées
+🧪 Tests manuels des composants React
+🔗 Validation du routing (navigation entre pages)
+📱 Tests responsive (mobile, tablette, desktop)
+🐞 Détection et documentation des anomalies
+📋 Rédaction de cas de test
+🔄 Tests de non-régression
+
+🛠 Environnement technique
+
+React
+React Router
+Vite
+Node.js
+JSON (mock data)
+
+🐞 Exemple de bug détecté
+Bug : Navigation incorrecte entre pages
+Description : La route ne charge pas le bon composant
+Impact : Expérience utilisateur dégradée
+Correction : Vérification du routing React Router
 
 🚀 Résultats
-✔ Détection d’anomalies critiques
-✔ Amélioration de la qualité produit
-✔ Contribution à une démarche QA professionnelle
+✔ Amélioration de la navigation utilisateur
+✔ Correction de bugs UI et routing
+✔ Validation complète du front-end
 
 ## 🧪 3️⃣ QA Testing – Projets OpenClassrooms
 
