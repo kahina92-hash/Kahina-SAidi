@@ -133,9 +133,8 @@ Correction : Vérification du routing React Router
 
 ## 🧪 3️⃣ QA Testing – Projets OpenClassrooms
 
-🔗 Lien du projet : https://github.com/kahina92-hash/Menu-Marker.git
-
 #### 🎉 724events – Site vitrine événementiel (One-page)
+🔗 Lien du projet : https://github.com/kahina92-hash/Menu-Marker.git
 - Tests fonctionnels et UI/UX
 - Vérification du responsive design
 - Analyse des comportements de navigation
@@ -144,6 +143,7 @@ Correction : Vérification du routing React Router
 - 
 - ## 📸 Site photographe – Nina Carducci
 🔗 Lien du projet :https://github.com/kahina92-hash/Nina-Carducci.git
+
 Dans le cadre d’une mission d’optimisation web, j’ai travaillé sur le site vitrine de la photographe **Nina Carducci**.
 
 L’objectif était d’améliorer les performances du site, son référencement naturel (SEO) ainsi que son accessibilité.
