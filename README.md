@@ -133,14 +133,6 @@ Correction : Vérification du routing React Router
 
 ## 🧪 3️⃣ QA Testing – Projets OpenClassrooms
 
-![Projects](./img/openclassrooms.gif)
-
-- Tests sur applications React & Node.js
-- Détection de bugs et validation
-- Rédaction de rapports QA
-- Collaboration avec développeurs
-
----
 
 ## 💻 Compétences
 
@@ -151,20 +143,25 @@ Correction : Vérification du routing React Router
 - Tests de non-régression
 - Tests UX / Accessibilité
 
-### 🛠 Outils QA
-- Jira
-- Squash TM
-- Cypress
-- Selenium
-- Postman
 
-### 📊 Méthodologies
-- Agile / Scrum
-- STLC (Software Testing Life Cycle)
-- Test cases & test plans
-- Bug reporting
+### 📁 Projets QA
 
----
+
+
+### 📊 Outils utilisés
+- Postman  
+- Cypress  
+- Git & GitHub  
+- VS Code  
+- JSON Server  
+- Chrome DevTools  
+
+### 🧠 Compétences QA développées
+- Analyse des besoins fonctionnels  
+- Tests manuels & automatisés  
+- Validation des API REST  
+- Gestion des scénarios de test  
+- Travail en environnement Agile
 
 ## 📄 CV
 
